@@ -1,0 +1,23 @@
+
+I need to gain more practical expereince to analyse it in a much better way.
+In case of minor mistakes please accept this submission.This is my best interpretation.
+
+I have selected variable on the basis of higher loadings and variable that explains most of the variables.
+
+  For this case study I would choose 4 cluster solution as it best describes my data
+  
+  1) Cluster 1 and Cluster 2 of the four cluster solution are considered as premium customers.
+     The main reason is they seem to use all the services provided by the telecom company.
+     Males contribute 51% from these two segments. This segment should be given ocassional offers 
+     They seem to be very loyal with the brand.
+
+  2) The 3rd segment cluster are not so avid users of the services.They used the Internet calls service
+     Very rarely when compared to other services. This segment should be given promotional internet
+     packs so that they will know how to use internet calls service and start using it.Apart from that 
+     they are not so loyal to the brand maybe they are using services of other telecom company.It should
+     be noted and promotional packs should be introduced by observing the competitors packs.
+    
+  3)The 4th segment cluster customers seems to use the various outgoing services like "out sms","out calling",
+    "out roaming","out calls international" and few other outgoing services very rarely .They use only the
+     Incomming services very extensively.They seem to be money savers.Recharge Packs should be developed
+     to these customers by providing maximum value for money .Like providing them various services for low price.
